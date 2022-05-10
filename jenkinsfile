@@ -1,6 +1,4 @@
 
-// Creating this file to learn the declarative pipeline
-
 pipeline {
     agent any
 
