@@ -21,5 +21,8 @@ pipeline {
                 echo 'Release into prod'
             }
         }
+        stage('Prod') {
+            steps {
+                echo 'Release into prod'
     }
 }
