@@ -25,4 +25,5 @@ pipeline {
             steps {
                 echo 'Release into prod'
     }
+    }
 }
